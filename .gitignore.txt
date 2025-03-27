@@ -1,9 +1,0 @@
-.project
-.classpath
-.settings/
-/bin/
-/build/
-/target/
-/out/
-/.metadata/
-/Servers/
