@@ -1,0 +1,20 @@
+package annotation;
+
+import java.lang.annotation.Annotation;
+
+// Spring 입장 MyClass가 사용한 annotation (미리 약속됨)을 파악
+public class Test {
+	public static void main(String[] args) throws Exception{
+		Class<?> myClass = Class.forName("annotation.MyClass");
+		
+		Annotation[] annotations = myClass.getAnnotations();
+		// AboutMe annotation의 속성값을 확인/처리
+		for (Annotation annotation : annotations) {
+			if (annotation instanceof AboutMe) {
+				AboutMe aboutMe = (AboutMe) annotation;
+				System.out.println(aboutMe.love());
+				System.out.println(aboutMe.hate());
+			}
+		}
+	}
+}

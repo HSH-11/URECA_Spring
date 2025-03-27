@@ -1,0 +1,16 @@
+package reflection;
+
+// Spring Framework가 User를 들여다 본다
+// reflection api
+public class Test {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		Class<?> userClass = Class.forName("reflection.User");
+		
+		// class 이름
+		System.out.println(userClass.getName());
+	}
+
+}
