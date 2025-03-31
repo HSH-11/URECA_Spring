@@ -5,7 +5,6 @@
     <fullyQualifiedTypeName name="annotation.AboutMe"/>
     <fullyQualifiedTypeName name="java.lang.reflect.Field"/>
     <fullyQualifiedTypeName name="proxy.MyIF"/>
-    <fullyQualifiedTypeName name="java.lang.Override"/>
     <fullyQualifiedTypeName name="proxy.CheckNotNull"/>
     <fullyQualifiedTypeName name="java.lang.reflect.Proxy"/>
     <fullyQualifiedTypeName name="java.lang.reflect.InvocationHandler"/>
@@ -14,4 +13,18 @@
     <fullyQualifiedTypeName name="annotation.MyClass"/>
     <fullyQualifiedTypeName name="workshop.MyClassJeongmin"/>
     <fullyQualifiedTypeName name="workshop.AboutMySelf"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.ClassPathScanningCandidateComponentProvider"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.AnnotationConfigApplicationContext"/>
+    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Configurable"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.Configuration"/>
+    <fullyQualifiedTypeName name="com.mycom.myapp.calc.configuration.CalcConfiguration"/>
+    <fullyQualifiedTypeName name="com.mycom.myapp.calc.configuration.Calculator"/>
+    <fullyQualifiedTypeName name="java.lang.Override"/>
+    <fullyQualifiedTypeName name="org.aspectj.lang.annotation.Aspect"/>
+    <fullyQualifiedTypeName name="org.slf4j.Logger"/>
+    <fullyQualifiedTypeName name="org.slf4j.LoggerFactory"/>
+    <fullyQualifiedTypeName name="com.mycom.myapp.calc.all.SeatPolicy"/>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Component"/>
+    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
+    <fullyQualifiedTypeName name="org.springframework.context.support.ClassPathXmlApplicationContext"/>
 </qualifiedTypeNameHistroy>
