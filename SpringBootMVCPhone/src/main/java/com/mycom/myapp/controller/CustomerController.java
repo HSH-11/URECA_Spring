@@ -1,6 +1,8 @@
 package com.mycom.myapp.controller;
 
+import java.util.HashMap;
 import java.util.List;
+import java.util.Map;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
@@ -38,9 +40,12 @@ public class CustomerController {
 
 	@PostMapping(value = "/insert")
 	@ResponseBody
-	public void insert(@RequestParam String name, @RequestParam String email, @RequestParam String phone,
+	public Map<String, String> insert(@RequestParam String name, @RequestParam String email, @RequestParam String phone,
 			@RequestParam String address) {
 		customerService.findOrCreateCustomer(name, email, phone, address);
+		Map<String, String> result = new HashMap<>();
+        result.put("result", "success");
+        return result;
 
 	}
 

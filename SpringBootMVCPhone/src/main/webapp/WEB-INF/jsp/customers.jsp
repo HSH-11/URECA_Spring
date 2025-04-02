@@ -117,15 +117,17 @@ a {
 
 		    try {
 		        let response = await fetch(url, fetchOptions);
-		        if (response.ok) {
-		            alert('고객 등록 성공!');
-		            listcustomer(); 
+		        let data = await response.json(); 
+
+		        if (data.result === "success") {
+		            alert("고객 등록 성공!");
+		            listcustomer();
 		        } else {
-		            alert('고객 등록 실패!');
+		            alert("고객 등록 실패!");
 		        }
 		    } catch (error) {
 		        console.error(error);
-		        alert('고객 등록 처리 중 오류 발생!');
+		        alert("고객 등록 처리 중 오류 발생!");
 		    }
 		}
 
