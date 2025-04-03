@@ -1,7 +1,0 @@
-package annotation;
-
-
-@AboutMe(CellPhoneMaker = "Galaxy Z Flip 5", isSmoker = false)
-public class MyClass {
-	
-}

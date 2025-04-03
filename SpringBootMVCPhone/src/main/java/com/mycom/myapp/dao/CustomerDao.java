@@ -4,6 +4,8 @@ import java.util.List;
 
 import com.mycom.myapp.dto.CustomerDTO;
 
+
+@Mapper
 public interface CustomerDao {
 	List<CustomerDTO> getAllCustomers();
 

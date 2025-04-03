@@ -52,7 +52,7 @@ public class CustomerController {
 	@PostMapping(value = "/update")
 	@ResponseBody
 	public void updateCustomer(CustomerDTO customerDto) {
-		System.out.println(customerDto); // 디버깅 출력
+		System.out.println(customerDto); 
 		customerService.updateCustomer(customerDto);
 	}
 
