@@ -1,12 +1,79 @@
 <!DOCTYPE html>
-<html>
+<html lang="ko">
 <head>
-<meta charset="UTF-8">
-<title>Insert title here</title>
+  <meta charset="UTF-8">
+  <title>휴대폰 판매 관리 시스템</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
 </head>
-<body>
-	<h1>휴대폰 판매 시스템</h1>
-	<a href='/'>휴대폰 상품 관리</a><br>
-	<a href='/customer/'>고객 관리</a><br>
+<body class="bg-light">
+  <div class="container mt-5">
+    <h2 class="text-center mb-4">휴대폰 판매 관리</h2>
+
+    <!-- 로그인 모드 선택 -->
+    <div class="text-center mb-4">
+      <button id="adminBtn" class="btn btn-outline-primary me-2">관리자 모드</button>
+      <button id="userBtn" class="btn btn-outline-success">사용자 모드</button>
+    </div>
+
+    <!-- 로그인 폼 -->
+    <div class="card mx-auto" style="max-width: 400px;">
+      <div class="card-body">
+        <form id="loginForm">
+          <div class="mb-3">
+            <label for="userid" class="form-label">아이디</label>
+            <input type="text" class="form-control" id="userid" required>
+          </div>
+          <div class="mb-3">
+            <label for="password" class="form-label">비밀번호</label>
+            <input type="password" class="form-control" id="password" required>
+          </div>
+          <!-- 숨겨진 로그인 타입 -->
+          <input type="hidden" id="loginType" value="user">
+          <div class="d-grid">
+            <button type="submit" class="btn btn-primary">로그인</button>
+          </div>
+        </form>
+      </div>
+    </div>
+
+    <!-- 결과 메시지 -->
+    <div class="text-center mt-3" id="loginResult"></div>
+  </div>
+
+  <script>
+    // 모드 전환
+    document.getElementById("adminBtn").addEventListener("click", () => {
+      document.getElementById("loginType").value = "admin";
+      alert("관리자 모드로 전환되었습니다.");
+    });
+
+    document.getElementById("userBtn").addEventListener("click", () => {
+      document.getElementById("loginType").value = "user";
+      alert("사용자 모드로 전환되었습니다.");
+    });
+
+    // 로그인 처리
+    document.getElementById("loginForm").addEventListener("submit", function(e) {
+      e.preventDefault();
+
+      const userid = document.getElementById("userid").value;
+      const password = document.getElementById("password").value;
+      const loginType = document.getElementById("loginType").value;
+
+      fetch("auth/login", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ userid, password, loginType })
+      })
+      .then(res => res.json())
+      .then(result => {
+    	  if (result.result === "success") {
+    	      window.location.href = loginType === "admin" ? "/adminPage" : "/userPage";
+    	    } else {
+    	      alert("로그인 실패: 아이디 또는 비밀번호를 확인해주세요.");
+    	    }
+      });
+    });
+  </script>
 </body>
 </html>
