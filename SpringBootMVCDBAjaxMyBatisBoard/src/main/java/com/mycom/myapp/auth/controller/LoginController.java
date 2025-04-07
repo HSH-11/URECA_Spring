@@ -5,6 +5,7 @@ import java.util.Map;
 import java.util.Optional;
 
 import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.ResponseBody;
@@ -34,7 +35,7 @@ public class LoginController {
 		
 		if ( optional.isPresent()) { // 로그인 성공
 			UserDto dto = optional.get();
-			session.setAttribute("userDto", dto);
+			session.setAttribute("userDto", dto); // session timeout 30분
 			
 			map.put("result", "success");
 			return map;
@@ -43,5 +44,10 @@ public class LoginController {
 		// 로그인 실패
 		map.put("result", "fail");
 		return map;
+	}
+	
+	@GetMapping("/logout")
+	public String logout() {
+		return "login";
 	}
 }
