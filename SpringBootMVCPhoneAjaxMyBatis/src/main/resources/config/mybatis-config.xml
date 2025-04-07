@@ -10,5 +10,6 @@
     <mappers>
         <mapper resource="mapper/AdminMapper.xml"/>
         <mapper resource="mapper/UserMapper.xml"/>
+        <mapper resource="mapper/RegisterMapper.xml"/>
     </mappers>
 </configuration>

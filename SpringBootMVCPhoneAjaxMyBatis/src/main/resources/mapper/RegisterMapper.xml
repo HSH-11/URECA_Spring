@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper
+  PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+  "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.mycom.myapp.register.dao.RegisterDao">
+    <insert id="registerCustomer" parameterType="com.mycom.myapp.register.dto.CustomerDto">
+        INSERT INTO Customers (userid, password, name, email, phone, address)
+        VALUES (#{userid}, #{password}, #{name}, #{email}, #{phone}, #{address})
+    </insert>
+</mapper>

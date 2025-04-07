@@ -48,7 +48,17 @@ public class LoginController {
 	}
 	
 	@GetMapping("/logout")
-	public String logout() {
-		return "login";
+	public String logout(HttpSession session) {
+	    session.invalidate();
+	    return "redirect:/login.jsp";
+	}
+
+	
+	@GetMapping("/userPage")
+	public String userPage(HttpSession session) {
+	    if (session.getAttribute("userDto") == null) {
+	        return "redirect:/login.jsp";
+	    }
+	    return "userPage";
 	}
 }

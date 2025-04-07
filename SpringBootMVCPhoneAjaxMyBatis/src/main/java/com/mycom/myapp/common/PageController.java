@@ -18,4 +18,9 @@ public class PageController {
     public String userPage() {
         return "userPage";
     }
+    
+    @GetMapping("/register")
+    public String RegisterForm() {
+        return "register";
+    }
 }
