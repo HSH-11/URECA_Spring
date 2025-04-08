@@ -22,14 +22,12 @@ public class ProductController {
 	@GetMapping("/list")
 	@ResponseBody
 	public ProductResultDto listProduct(ProductParamDto paramDto) {
-	    if (paramDto.getLimit() == null) paramDto.setLimit(10);
-	    if (paramDto.getOffset() == null) paramDto.setOffset(0);
-	    if (paramDto.getSearchWord() == null) paramDto.setSearchWord("");
-	    
-	    System.out.println(paramDto.getSearchWord());
-
-	    return Strings.isEmpty(paramDto.getSearchWord())
-	            ? productService.getAllProducts(paramDto)
-	            : productService.searchProducts(paramDto);
+		
+		
+		if (Strings.isEmpty(paramDto.getSearchWord())) {
+	        return productService.getAllProducts(paramDto);
+	    } else {
+	        return productService.searchProducts(paramDto);
+	    }
 	}
 }
