@@ -9,12 +9,12 @@ import jakarta.servlet.http.HttpSession;
 @Controller
 public class PageController {
 	
-	@GetMapping("/adminPage")
+	@GetMapping("/pages/admin")
     public String adminPage() {
-        return "adminPage"; 
+        return "adminProductList"; 
     }
 
-    @GetMapping("/userPage")
+    @GetMapping("/page/user")
     public String userPage() {
         return "userPage";
     }
