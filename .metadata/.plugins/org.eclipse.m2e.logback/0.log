@@ -3724,3 +3724,538 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact org.aspectj:a
 2025-04-08 00:41:41,867 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
 2025-04-08 00:41:41,868 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
 2025-04-08 00:41:41,871 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user\Ureca_Spring\SpringBootMVCPhoneAjaxMyBatis\src\test\resources
+2025-04-08 09:14:07,117 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2025-04-08 10:13:07,881 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-08 10:13:07,908 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 7 resources from src\main\resources to target\classes
+2025-04-08 10:13:07,916 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user\Ureca_Spring\SpringBootMVCDBAjaxMyBatisBoard\src\test\resources
+2025-04-08 10:14:28,163 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-08 10:14:28,165 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-08 10:14:28,168 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user\Ureca_Spring\SpringBootMVCDBAjaxMyBatisBoard\src\test\resources
+2025-04-08 10:17:57,254 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-08 10:17:57,256 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-08 10:17:57,258 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user\Ureca_Spring\SpringBootMVCDBAjaxMyBatisBoard\src\test\resources
+2025-04-08 10:18:28,165 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-08 10:18:28,168 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-08 10:18:28,170 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user\Ureca_Spring\SpringBootMVCDBAjaxMyBatisBoard\src\test\resources
+2025-04-08 10:19:39,008 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-08 10:19:39,010 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-08 10:19:39,012 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user\Ureca_Spring\SpringBootMVCDBAjaxMyBatisBoard\src\test\resources
+2025-04-08 10:21:23,063 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-08 10:21:23,065 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-08 10:21:23,067 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user\Ureca_Spring\SpringBootMVCDBAjaxMyBatisBoard\src\test\resources
+2025-04-08 10:22:06,389 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-08 10:22:06,391 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-08 10:22:06,393 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user\Ureca_Spring\SpringBootMVCDBAjaxMyBatisBoard\src\test\resources
+2025-04-08 10:23:23,169 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-08 10:23:23,171 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-08 10:23:23,174 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user\Ureca_Spring\SpringBootMVCDBAjaxMyBatisBoard\src\test\resources
+2025-04-08 10:25:29,637 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-08 10:25:29,639 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-08 10:25:29,642 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user\Ureca_Spring\SpringBootMVCDBAjaxMyBatisBoard\src\test\resources
+2025-04-08 10:27:33,233 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-08 10:27:33,241 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 7 resources from src\main\resources to target\classes
+2025-04-08 10:27:33,244 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user\Ureca_Spring\SpringBootMVCDBAjaxMyBatisBoard\src\test\resources
+2025-04-08 10:36:02,107 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-08 10:36:02,113 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 7 resources from src\main\resources to target\classes
+2025-04-08 10:36:02,117 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user\Ureca_Spring\SpringBootMVCDBAjaxMyBatisBoard\src\test\resources
+2025-04-08 10:36:16,507 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-08 10:36:16,517 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 7 resources from src\main\resources to target\classes
+2025-04-08 10:36:16,521 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user\Ureca_Spring\SpringBootMVCDBAjaxMyBatisBoard\src\test\resources
+2025-04-08 10:37:59,483 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-08 10:37:59,490 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 7 resources from src\main\resources to target\classes
+2025-04-08 10:37:59,494 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user\Ureca_Spring\SpringBootMVCDBAjaxMyBatisBoard\src\test\resources
+2025-04-08 10:38:27,912 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-08 10:38:27,921 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 7 resources from src\main\resources to target\classes
+2025-04-08 10:38:27,925 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user\Ureca_Spring\SpringBootMVCDBAjaxMyBatisBoard\src\test\resources
+2025-04-08 10:39:47,587 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-08 10:39:47,595 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 7 resources from src\main\resources to target\classes
+2025-04-08 10:39:47,599 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user\Ureca_Spring\SpringBootMVCDBAjaxMyBatisBoard\src\test\resources
+2025-04-08 10:47:12,464 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-08 10:47:12,471 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 7 resources from src\main\resources to target\classes
+2025-04-08 10:47:12,475 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user\Ureca_Spring\SpringBootMVCDBAjaxMyBatisBoard\src\test\resources
+2025-04-08 10:47:50,828 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-08 10:47:50,834 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 7 resources from src\main\resources to target\classes
+2025-04-08 10:47:50,837 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user\Ureca_Spring\SpringBootMVCDBAjaxMyBatisBoard\src\test\resources
+2025-04-08 10:48:37,176 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-08 10:48:37,183 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 7 resources from src\main\resources to target\classes
+2025-04-08 10:48:37,187 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user\Ureca_Spring\SpringBootMVCDBAjaxMyBatisBoard\src\test\resources
+2025-04-08 10:53:13,309 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-08 10:53:13,315 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 7 resources from src\main\resources to target\classes
+2025-04-08 10:53:13,319 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user\Ureca_Spring\SpringBootMVCDBAjaxMyBatisBoard\src\test\resources
+2025-04-08 10:54:55,652 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-08 10:54:55,659 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 7 resources from src\main\resources to target\classes
+2025-04-08 10:54:55,663 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user\Ureca_Spring\SpringBootMVCDBAjaxMyBatisBoard\src\test\resources
+2025-04-08 10:55:40,081 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-08 10:55:40,088 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 7 resources from src\main\resources to target\classes
+2025-04-08 10:55:40,091 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user\Ureca_Spring\SpringBootMVCDBAjaxMyBatisBoard\src\test\resources
+2025-04-08 10:58:08,318 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-08 10:58:08,323 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 7 resources from src\main\resources to target\classes
+2025-04-08 10:58:08,326 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user\Ureca_Spring\SpringBootMVCDBAjaxMyBatisBoard\src\test\resources
+2025-04-08 11:12:07,127 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-08 11:12:07,151 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 7 resources from src\main\resources to target\classes
+2025-04-08 11:12:07,155 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user\Ureca_Spring\SpringBootMVCDBAjaxMyBatisBoard\src\test\resources
+2025-04-08 11:12:16,194 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-08 11:12:16,205 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 7 resources from src\main\resources to target\classes
+2025-04-08 11:12:16,208 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user\Ureca_Spring\SpringBootMVCDBAjaxMyBatisBoard\src\test\resources
+2025-04-08 11:15:27,503 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-08 11:15:27,509 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 7 resources from src\main\resources to target\classes
+2025-04-08 11:15:27,512 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user\Ureca_Spring\SpringBootMVCDBAjaxMyBatisBoard\src\test\resources
+2025-04-08 11:15:49,127 [Worker-58: Launching SpringBootMVCDBAjaxMyBatisBoard - SpringBootMvcdbAjaxMyBatisBoardApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-08 11:15:49,135 [Worker-58: Launching SpringBootMVCDBAjaxMyBatisBoard - SpringBootMvcdbAjaxMyBatisBoardApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 7 resources from src\main\resources to target\classes
+2025-04-08 11:15:49,140 [Worker-58: Launching SpringBootMVCDBAjaxMyBatisBoard - SpringBootMvcdbAjaxMyBatisBoardApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user\Ureca_Spring\SpringBootMVCDBAjaxMyBatisBoard\src\test\resources
+2025-04-08 11:17:06,398 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-08 11:17:06,404 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 7 resources from src\main\resources to target\classes
+2025-04-08 11:17:06,408 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user\Ureca_Spring\SpringBootMVCDBAjaxMyBatisBoard\src\test\resources
+2025-04-08 11:17:40,212 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-08 11:17:40,230 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-08 11:17:40,232 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user\Ureca_Spring\SpringBootMVCDBAjaxMyBatisBoard\src\test\resources
+2025-04-08 11:19:09,108 [Worker-60: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.mycom:SpringBootMVCDBAjaxMyBatisBoard:0.0.1-SNAPSHOT @ C:\Users\user\Ureca_Spring\SpringBootMVCDBAjaxMyBatisBoard\pom.xml.
+2025-04-08 11:19:09,458 [Worker-60: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/code/gson/gson/2.11.0/gson-2.11.0.pom
+2025-04-08 11:19:09,481 [Worker-60: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/code/gson/gson/2.11.0/gson-2.11.0.pom
+2025-04-08 11:19:09,498 [Worker-60: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/code/gson/gson-parent/2.11.0/gson-parent-2.11.0.pom
+2025-04-08 11:19:09,521 [Worker-60: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/code/gson/gson-parent/2.11.0/gson-parent-2.11.0.pom
+2025-04-08 11:19:09,539 [Worker-60: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/errorprone/error_prone_annotations/2.27.0/error_prone_annotations-2.27.0.pom
+2025-04-08 11:19:09,559 [Worker-60: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/errorprone/error_prone_annotations/2.27.0/error_prone_annotations-2.27.0.pom
+2025-04-08 11:19:09,571 [Worker-60: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/errorprone/error_prone_parent/2.27.0/error_prone_parent-2.27.0.pom
+2025-04-08 11:19:09,592 [Worker-60: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/errorprone/error_prone_parent/2.27.0/error_prone_parent-2.27.0.pom
+2025-04-08 11:19:09,677 [Worker-60: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/code/gson/gson/2.11.0/gson-2.11.0.jar
+2025-04-08 11:19:09,724 [Worker-60: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/code/gson/gson/2.11.0/gson-2.11.0.jar
+2025-04-08 11:19:09,733 [BasicRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/errorprone/error_prone_annotations/2.27.0/error_prone_annotations-2.27.0.jar
+2025-04-08 11:19:09,969 [BasicRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/errorprone/error_prone_annotations/2.27.0/error_prone_annotations-2.27.0.jar
+2025-04-08 11:19:10,469 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-08 11:19:10,471 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-08 11:19:10,473 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user\Ureca_Spring\SpringBootMVCDBAjaxMyBatisBoard\src\test\resources
+2025-04-08 11:19:10,914 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-08 11:19:10,926 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 7 resources from src\main\resources to target\classes
+2025-04-08 11:19:10,939 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user\Ureca_Spring\SpringBootMVCDBAjaxMyBatisBoard\src\test\resources
+2025-04-08 11:19:11,300 [Worker-66: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/code/gson/gson/2.11.0/gson-2.11.0-sources.jar
+2025-04-08 11:19:11,357 [Worker-66: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/code/gson/gson/2.11.0/gson-2.11.0-sources.jar
+2025-04-08 11:19:11,361 [Worker-66: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.google.code.gson:gson:2.11.0
+2025-04-08 11:19:11,394 [Worker-66: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/errorprone/error_prone_annotations/2.27.0/error_prone_annotations-2.27.0-sources.jar
+2025-04-08 11:19:11,813 [Worker-66: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/errorprone/error_prone_annotations/2.27.0/error_prone_annotations-2.27.0-sources.jar
+2025-04-08 11:19:11,816 [Worker-66: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.google.errorprone:error_prone_annotations:2.27.0
+2025-04-08 11:21:31,147 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-08 11:21:31,152 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 7 resources from src\main\resources to target\classes
+2025-04-08 11:21:31,155 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user\Ureca_Spring\SpringBootMVCDBAjaxMyBatisBoard\src\test\resources
+2025-04-08 11:26:11,974 [Worker-77: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact aspectj:aspectjrt:jar:1.5.4 has been relocated to org.aspectj:aspectjrt:jar:1.5.4
+2025-04-08 11:28:22,977 [Worker-77: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-08 11:28:22,979 [Worker-77: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 7 resources from src\main\resources to target\classes
+2025-04-08 11:28:22,990 [Worker-77: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-04-08 11:28:41,500 [Worker-80: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-08 11:28:41,516 [Worker-80: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-08 11:28:41,521 [Worker-80: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user\Ureca_Spring\SpringAOP\src\test\resources
+2025-04-08 11:28:41,712 [Worker-80: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-08 11:28:41,727 [Worker-80: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src\main\resources to target\classes
+2025-04-08 11:28:41,735 [Worker-80: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user\Ureca_Spring\SpringBootFilterInterceptor\src\test\resources
+2025-04-08 11:28:41,900 [Worker-80: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-08 11:28:41,914 [Worker-80: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-08 11:28:41,917 [Worker-80: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user\Ureca_Spring\SpringBootMVC\src\test\resources
+2025-04-08 11:28:42,122 [Worker-80: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-08 11:28:42,137 [Worker-80: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-08 11:28:42,141 [Worker-80: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user\Ureca_Spring\SpringBootMVCDB\src\test\resources
+2025-04-08 11:28:42,322 [Worker-80: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-08 11:28:42,338 [Worker-80: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-08 11:28:42,342 [Worker-80: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user\Ureca_Spring\SpringBootMVCDBAjax\src\test\resources
+2025-04-08 11:28:42,499 [Worker-80: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-08 11:28:42,514 [Worker-80: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2025-04-08 11:28:42,521 [Worker-80: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user\Ureca_Spring\SpringBootMVCDBAjaxMyBatis\src\test\resources
+2025-04-08 11:28:42,697 [Worker-80: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-08 11:28:42,714 [Worker-80: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src\main\resources to target\classes
+2025-04-08 11:28:42,724 [Worker-80: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user\Ureca_Spring\SpringBootMVCDBAjaxMyBatis2\src\test\resources
+2025-04-08 11:28:42,912 [Worker-80: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-08 11:28:42,928 [Worker-80: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-08 11:28:42,933 [Worker-80: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user\Ureca_Spring\SpringBootMVCPhone\src\test\resources
+2025-04-08 11:28:43,125 [Worker-80: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-08 11:28:43,140 [Worker-80: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 5 resources from src\main\resources to target\classes
+2025-04-08 11:28:43,149 [Worker-80: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user\Ureca_Spring\SpringBootMVCPhoneAjaxMyBatis\src\test\resources
+2025-04-08 11:28:43,353 [Worker-80: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-08 11:28:43,370 [Worker-80: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 5 resources from src\main\resources to target\classes
+2025-04-08 11:28:43,379 [Worker-80: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user\Ureca_Spring\SpringDI\src\test\resources
+2025-04-08 11:29:23,832 [Worker-89: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-08 11:29:23,839 [Worker-89: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 7 resources from src\main\resources to target\classes
+2025-04-08 11:29:23,843 [Worker-89: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-04-08 11:41:45,454 [Worker-91: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-08 11:41:45,460 [Worker-91: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 7 resources from src\main\resources to target\classes
+2025-04-08 11:41:45,464 [Worker-91: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-04-08 11:42:53,281 [Worker-91: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-08 11:42:53,283 [Worker-91: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-08 11:42:53,286 [Worker-91: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-04-08 11:43:08,185 [Worker-80: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-08 11:43:08,187 [Worker-80: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-08 11:43:08,191 [Worker-80: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-04-08 13:08:31,338 [Worker-107: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-08 13:08:31,340 [Worker-107: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-08 13:08:31,344 [Worker-107: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-04-08 13:09:38,701 [Worker-106: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-08 13:09:38,721 [Worker-106: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 7 resources from src\main\resources to target\classes
+2025-04-08 13:09:38,726 [Worker-106: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-04-08 13:11:10,016 [Worker-107: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-08 13:11:10,021 [Worker-107: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 7 resources from src\main\resources to target\classes
+2025-04-08 13:11:10,025 [Worker-107: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-04-08 13:11:29,744 [Worker-103: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-08 13:11:29,774 [Worker-103: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 7 resources from src\main\resources to target\classes
+2025-04-08 13:11:29,779 [Worker-103: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-04-08 13:15:15,265 [Worker-103: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-08 13:15:15,272 [Worker-103: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 7 resources from src\main\resources to target\classes
+2025-04-08 13:15:15,276 [Worker-103: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-04-08 13:17:00,076 [Worker-109: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-08 13:17:00,081 [Worker-109: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 7 resources from src\main\resources to target\classes
+2025-04-08 13:17:00,084 [Worker-109: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-04-08 13:18:48,540 [Worker-106: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-08 13:18:48,547 [Worker-106: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 7 resources from src\main\resources to target\classes
+2025-04-08 13:18:48,550 [Worker-106: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-04-08 13:18:51,991 [Worker-106: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-08 13:18:52,002 [Worker-106: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 7 resources from src\main\resources to target\classes
+2025-04-08 13:18:52,007 [Worker-106: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-04-08 13:19:58,589 [Worker-107: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-08 13:19:58,605 [Worker-107: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 7 resources from src\main\resources to target\classes
+2025-04-08 13:19:58,608 [Worker-107: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-04-08 13:20:42,018 [Worker-102: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-08 13:20:42,025 [Worker-102: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 7 resources from src\main\resources to target\classes
+2025-04-08 13:20:42,030 [Worker-102: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-04-08 13:22:01,299 [Worker-106: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-08 13:22:01,303 [Worker-106: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-08 13:22:01,308 [Worker-106: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-04-08 13:24:37,491 [Worker-106: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-08 13:24:37,498 [Worker-106: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 7 resources from src\main\resources to target\classes
+2025-04-08 13:24:37,502 [Worker-106: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-04-08 13:25:51,876 [Worker-110: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-08 13:25:51,882 [Worker-110: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 7 resources from src\main\resources to target\classes
+2025-04-08 13:25:51,886 [Worker-110: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-04-08 13:29:07,199 [Worker-107: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-08 13:29:07,206 [Worker-107: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 7 resources from src\main\resources to target\classes
+2025-04-08 13:29:07,209 [Worker-107: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-04-08 13:29:54,202 [Worker-110: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-08 13:29:54,209 [Worker-110: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 7 resources from src\main\resources to target\classes
+2025-04-08 13:29:54,213 [Worker-110: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-04-08 13:41:11,707 [Worker-110: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-08 13:41:11,709 [Worker-110: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-08 13:41:11,711 [Worker-110: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-04-08 13:41:32,405 [Worker-110: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-08 13:41:32,413 [Worker-110: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 7 resources from src\main\resources to target\classes
+2025-04-08 13:41:32,417 [Worker-110: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-04-08 13:46:12,892 [Worker-116: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-08 13:46:12,895 [Worker-116: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-08 13:46:12,897 [Worker-116: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-04-08 13:46:37,161 [Worker-119: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-08 13:46:37,163 [Worker-119: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-08 13:46:37,165 [Worker-119: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-04-08 13:51:19,449 [Worker-120: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-08 13:51:19,450 [Worker-120: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-08 13:51:19,454 [Worker-120: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-04-08 13:51:36,242 [Worker-118: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-08 13:51:36,243 [Worker-118: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-08 13:51:36,247 [Worker-118: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-04-08 13:51:46,728 [Worker-122: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-08 13:51:46,730 [Worker-122: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-08 13:51:46,733 [Worker-122: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-04-08 14:06:36,529 [Worker-126: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-08 14:06:36,532 [Worker-126: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-08 14:06:36,534 [Worker-126: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-04-08 14:09:07,916 [Worker-128: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-08 14:09:07,918 [Worker-128: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-08 14:09:07,920 [Worker-128: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-04-08 14:11:14,370 [Worker-126: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-08 14:11:14,381 [Worker-126: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 7 resources from src\main\resources to target\classes
+2025-04-08 14:11:14,384 [Worker-126: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-04-08 14:11:40,723 [Worker-132: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-08 14:11:40,725 [Worker-132: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-08 14:11:40,728 [Worker-132: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-04-08 14:12:28,869 [Worker-126: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-08 14:12:28,871 [Worker-126: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-08 14:12:28,875 [Worker-126: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-04-08 14:13:22,563 [Worker-132: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-08 14:13:22,564 [Worker-132: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-08 14:13:22,567 [Worker-132: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-04-08 14:14:20,999 [Worker-126: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-08 14:14:21,001 [Worker-126: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-08 14:14:21,003 [Worker-126: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-04-08 14:14:51,542 [Worker-134: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-08 14:14:51,543 [Worker-134: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-08 14:14:51,546 [Worker-134: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-04-08 14:15:50,149 [Worker-129: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-08 14:15:50,151 [Worker-129: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-08 14:15:50,153 [Worker-129: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-04-08 14:19:12,414 [Worker-132: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-08 14:19:12,416 [Worker-132: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-08 14:19:12,418 [Worker-132: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-04-08 14:21:02,327 [Worker-138: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-08 14:21:02,330 [Worker-138: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-08 14:21:02,332 [Worker-138: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-04-08 14:21:20,370 [Worker-136: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-08 14:21:20,372 [Worker-136: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-08 14:21:20,375 [Worker-136: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-04-08 14:22:56,412 [Worker-139: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-08 14:22:56,414 [Worker-139: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-08 14:22:56,416 [Worker-139: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-04-08 14:25:17,596 [Worker-141: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-08 14:25:17,598 [Worker-141: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-08 14:25:17,601 [Worker-141: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-04-08 14:27:47,307 [Worker-142: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-08 14:27:47,321 [Worker-142: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 8 resources from src\main\resources to target\classes
+2025-04-08 14:27:47,325 [Worker-142: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-04-08 14:28:43,587 [Worker-140: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-08 14:28:43,589 [Worker-140: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-08 14:28:43,592 [Worker-140: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-04-08 14:29:22,221 [Worker-141: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-08 14:29:22,223 [Worker-141: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-08 14:29:22,227 [Worker-141: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-04-08 14:30:57,578 [Worker-143: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-08 14:30:57,581 [Worker-143: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-08 14:30:57,584 [Worker-143: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-04-08 14:31:06,358 [Worker-143: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-08 14:31:06,359 [Worker-143: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-08 14:31:06,362 [Worker-143: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-04-08 14:31:58,039 [Worker-136: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-08 14:31:58,046 [Worker-136: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 8 resources from src\main\resources to target\classes
+2025-04-08 14:31:58,050 [Worker-136: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-04-08 14:33:31,439 [Worker-136: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-08 14:33:31,444 [Worker-136: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 8 resources from src\main\resources to target\classes
+2025-04-08 14:33:31,448 [Worker-136: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-04-08 14:35:20,946 [Worker-136: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-08 14:35:20,954 [Worker-136: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 8 resources from src\main\resources to target\classes
+2025-04-08 14:35:20,958 [Worker-136: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-04-08 14:38:57,013 [Worker-140: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-08 14:38:57,020 [Worker-140: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 8 resources from src\main\resources to target\classes
+2025-04-08 14:38:57,024 [Worker-140: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-04-08 14:39:08,072 [Worker-147: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-08 14:39:08,081 [Worker-147: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 8 resources from src\main\resources to target\classes
+2025-04-08 14:39:08,085 [Worker-147: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-04-08 14:50:30,393 [Worker-146: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-08 14:50:30,395 [Worker-146: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-08 14:50:30,397 [Worker-146: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-04-08 14:50:51,836 [Worker-151: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-08 14:50:51,843 [Worker-151: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 8 resources from src\main\resources to target\classes
+2025-04-08 14:50:51,846 [Worker-151: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-04-08 14:52:31,649 [Worker-147: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-08 14:52:31,656 [Worker-147: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 8 resources from src\main\resources to target\classes
+2025-04-08 14:52:31,660 [Worker-147: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-04-08 14:53:49,217 [Worker-133: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.mycom:SpringBootMVCDBAjaxMyBatisBoard:0.0.1-SNAPSHOT @ C:\Users\user\Ureca_Spring\SpringBootMVCDBAjaxMyBatisBoard\pom.xml.
+2025-04-08 14:53:49,710 [Worker-133: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-08 14:53:49,712 [Worker-133: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-08 14:53:49,715 [Worker-133: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-04-08 14:54:30,602 [Worker-150: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-08 14:54:30,612 [Worker-150: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 8 resources from src\main\resources to target\classes
+2025-04-08 14:54:30,616 [Worker-150: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2025-04-08 15:29:48,500 [Worker-158: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-08 15:29:48,501 [Worker-158: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-08 15:29:48,503 [Worker-158: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user\Ureca_Spring\SpringBootMVCPhoneAjaxMyBatis\src\test\resources
+2025-04-08 15:30:26,924 [Worker-159: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-08 15:30:26,925 [Worker-159: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-08 15:30:26,926 [Worker-159: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user\Ureca_Spring\SpringBootMVCPhoneAjaxMyBatis\src\test\resources
+2025-04-08 15:31:27,602 [Worker-158: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-08 15:31:27,603 [Worker-158: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-08 15:31:27,605 [Worker-158: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user\Ureca_Spring\SpringBootMVCPhoneAjaxMyBatis\src\test\resources
+2025-04-08 15:31:50,236 [Worker-156: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-08 15:31:50,237 [Worker-156: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-08 15:31:50,239 [Worker-156: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user\Ureca_Spring\SpringBootMVCPhoneAjaxMyBatis\src\test\resources
+2025-04-08 15:32:06,165 [Worker-154: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-08 15:32:06,166 [Worker-154: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-08 15:32:06,167 [Worker-154: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user\Ureca_Spring\SpringBootMVCPhoneAjaxMyBatis\src\test\resources
+2025-04-08 15:32:52,811 [Worker-154: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-08 15:32:52,825 [Worker-154: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 5 resources from src\main\resources to target\classes
+2025-04-08 15:32:52,828 [Worker-154: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user\Ureca_Spring\SpringBootMVCPhoneAjaxMyBatis\src\test\resources
+2025-04-08 15:33:12,322 [Worker-159: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-08 15:33:12,326 [Worker-159: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 5 resources from src\main\resources to target\classes
+2025-04-08 15:33:12,329 [Worker-159: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user\Ureca_Spring\SpringBootMVCPhoneAjaxMyBatis\src\test\resources
+2025-04-08 15:33:22,301 [Worker-156: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-08 15:33:22,304 [Worker-156: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-08 15:33:22,307 [Worker-156: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user\Ureca_Spring\SpringBootMVCPhoneAjaxMyBatis\src\test\resources
+2025-04-08 15:33:42,669 [Worker-154: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-08 15:33:42,671 [Worker-154: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-08 15:33:42,674 [Worker-154: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user\Ureca_Spring\SpringBootMVCPhoneAjaxMyBatis\src\test\resources
+2025-04-08 15:38:49,475 [Worker-162: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-08 15:38:49,476 [Worker-162: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-08 15:38:49,477 [Worker-162: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user\Ureca_Spring\SpringBootMVCPhoneAjaxMyBatis\src\test\resources
+2025-04-08 15:39:29,924 [Worker-162: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-08 15:39:29,925 [Worker-162: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-08 15:39:29,926 [Worker-162: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user\Ureca_Spring\SpringBootMVCPhoneAjaxMyBatis\src\test\resources
+2025-04-08 15:39:35,106 [Worker-164: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-08 15:39:35,109 [Worker-164: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-08 15:39:35,111 [Worker-164: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user\Ureca_Spring\SpringBootMVCPhoneAjaxMyBatis\src\test\resources
+2025-04-08 15:39:38,981 [Worker-159: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-08 15:39:38,983 [Worker-159: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-08 15:39:38,984 [Worker-159: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user\Ureca_Spring\SpringBootMVCPhoneAjaxMyBatis\src\test\resources
+2025-04-08 15:41:17,891 [Worker-166: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-08 15:41:17,892 [Worker-166: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-08 15:41:17,893 [Worker-166: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user\Ureca_Spring\SpringBootMVCPhoneAjaxMyBatis\src\test\resources
+2025-04-08 15:41:41,574 [Worker-167: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-08 15:41:41,575 [Worker-167: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-08 15:41:41,577 [Worker-167: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user\Ureca_Spring\SpringBootMVCPhoneAjaxMyBatis\src\test\resources
+2025-04-08 15:42:50,287 [Worker-164: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-08 15:42:50,288 [Worker-164: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-08 15:42:50,290 [Worker-164: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user\Ureca_Spring\SpringBootMVCPhoneAjaxMyBatis\src\test\resources
+2025-04-08 15:46:17,295 [Worker-168: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-08 15:46:17,303 [Worker-168: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-08 15:46:17,305 [Worker-168: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user\Ureca_Spring\SpringBootMVCPhone\src\test\resources
+2025-04-08 15:48:05,067 [Worker-173: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-08 15:48:05,076 [Worker-173: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 5 resources from src\main\resources to target\classes
+2025-04-08 15:48:05,081 [Worker-173: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user\Ureca_Spring\SpringBootMVCPhoneAjaxMyBatis\src\test\resources
+2025-04-08 15:48:37,231 [Worker-173: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-08 15:48:37,241 [Worker-173: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 5 resources from src\main\resources to target\classes
+2025-04-08 15:48:37,245 [Worker-173: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user\Ureca_Spring\SpringBootMVCPhoneAjaxMyBatis\src\test\resources
+2025-04-08 15:48:44,662 [Worker-173: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-08 15:48:44,666 [Worker-173: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 5 resources from src\main\resources to target\classes
+2025-04-08 15:48:44,669 [Worker-173: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user\Ureca_Spring\SpringBootMVCPhoneAjaxMyBatis\src\test\resources
+2025-04-08 15:48:56,645 [Worker-175: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-08 15:48:56,649 [Worker-175: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 5 resources from src\main\resources to target\classes
+2025-04-08 15:48:56,653 [Worker-175: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user\Ureca_Spring\SpringBootMVCPhoneAjaxMyBatis\src\test\resources
+2025-04-08 15:49:33,122 [Worker-175: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-08 15:49:33,126 [Worker-175: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 5 resources from src\main\resources to target\classes
+2025-04-08 15:49:33,129 [Worker-175: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user\Ureca_Spring\SpringBootMVCPhoneAjaxMyBatis\src\test\resources
+2025-04-08 15:49:43,323 [Worker-170: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-08 15:49:43,328 [Worker-170: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 5 resources from src\main\resources to target\classes
+2025-04-08 15:49:43,332 [Worker-170: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user\Ureca_Spring\SpringBootMVCPhoneAjaxMyBatis\src\test\resources
+2025-04-08 15:50:58,427 [Worker-174: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-08 15:50:58,429 [Worker-174: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-08 15:50:58,432 [Worker-174: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user\Ureca_Spring\SpringBootMVCPhoneAjaxMyBatis\src\test\resources
+2025-04-08 16:09:35,499 [Worker-182: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-08 16:09:35,512 [Worker-182: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 6 resources from src\main\resources to target\classes
+2025-04-08 16:09:35,515 [Worker-182: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user\Ureca_Spring\SpringBootMVCPhoneAjaxMyBatis\src\test\resources
+2025-04-08 16:09:48,018 [Worker-178: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-08 16:09:48,031 [Worker-178: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 6 resources from src\main\resources to target\classes
+2025-04-08 16:09:48,034 [Worker-178: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user\Ureca_Spring\SpringBootMVCPhoneAjaxMyBatis\src\test\resources
+2025-04-08 16:10:13,217 [Worker-179: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-08 16:10:13,225 [Worker-179: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 6 resources from src\main\resources to target\classes
+2025-04-08 16:10:13,228 [Worker-179: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user\Ureca_Spring\SpringBootMVCPhoneAjaxMyBatis\src\test\resources
+2025-04-08 16:10:24,073 [Worker-178: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-08 16:10:24,080 [Worker-178: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 6 resources from src\main\resources to target\classes
+2025-04-08 16:10:24,083 [Worker-178: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user\Ureca_Spring\SpringBootMVCPhoneAjaxMyBatis\src\test\resources
+2025-04-08 16:14:18,194 [Worker-184: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-08 16:14:18,195 [Worker-184: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-08 16:14:18,199 [Worker-184: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user\Ureca_Spring\SpringBootMVCPhoneAjaxMyBatis\src\test\resources
+2025-04-08 16:17:51,840 [Worker-188: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-08 16:17:51,847 [Worker-188: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 6 resources from src\main\resources to target\classes
+2025-04-08 16:17:51,851 [Worker-188: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user\Ureca_Spring\SpringBootMVCPhoneAjaxMyBatis\src\test\resources
+2025-04-08 16:19:25,803 [Worker-188: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-08 16:19:25,808 [Worker-188: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 6 resources from src\main\resources to target\classes
+2025-04-08 16:19:25,812 [Worker-188: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user\Ureca_Spring\SpringBootMVCPhoneAjaxMyBatis\src\test\resources
+2025-04-08 16:21:45,681 [Worker-191: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-08 16:21:45,682 [Worker-191: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-08 16:21:45,685 [Worker-191: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user\Ureca_Spring\SpringBootMVCPhoneAjaxMyBatis\src\test\resources
+2025-04-08 16:22:03,742 [Worker-193: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-08 16:22:03,748 [Worker-193: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 6 resources from src\main\resources to target\classes
+2025-04-08 16:22:03,751 [Worker-193: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user\Ureca_Spring\SpringBootMVCPhoneAjaxMyBatis\src\test\resources
+2025-04-08 16:23:37,107 [Worker-193: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-08 16:23:37,113 [Worker-193: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 6 resources from src\main\resources to target\classes
+2025-04-08 16:23:37,116 [Worker-193: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user\Ureca_Spring\SpringBootMVCPhoneAjaxMyBatis\src\test\resources
+2025-04-08 16:23:55,816 [Worker-193: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-08 16:23:55,830 [Worker-193: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 6 resources from src\main\resources to target\classes
+2025-04-08 16:23:55,840 [Worker-193: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user\Ureca_Spring\SpringBootMVCPhoneAjaxMyBatis\src\test\resources
+2025-04-08 16:25:20,924 [Worker-193: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-08 16:25:20,928 [Worker-193: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 6 resources from src\main\resources to target\classes
+2025-04-08 16:25:20,931 [Worker-193: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user\Ureca_Spring\SpringBootMVCPhoneAjaxMyBatis\src\test\resources
+2025-04-08 16:33:03,802 [Worker-192: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-08 16:33:03,809 [Worker-192: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 6 resources from src\main\resources to target\classes
+2025-04-08 16:33:03,813 [Worker-192: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user\Ureca_Spring\SpringBootMVCPhoneAjaxMyBatis\src\test\resources
+2025-04-08 16:34:16,486 [Worker-188: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-08 16:34:16,493 [Worker-188: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 6 resources from src\main\resources to target\classes
+2025-04-08 16:34:16,495 [Worker-188: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user\Ureca_Spring\SpringBootMVCPhoneAjaxMyBatis\src\test\resources
+2025-04-08 16:34:37,436 [Worker-185: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-08 16:34:37,443 [Worker-185: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 6 resources from src\main\resources to target\classes
+2025-04-08 16:34:37,446 [Worker-185: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user\Ureca_Spring\SpringBootMVCPhoneAjaxMyBatis\src\test\resources
+2025-04-08 16:35:22,075 [Worker-188: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-08 16:35:22,079 [Worker-188: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 6 resources from src\main\resources to target\classes
+2025-04-08 16:35:22,082 [Worker-188: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user\Ureca_Spring\SpringBootMVCPhoneAjaxMyBatis\src\test\resources
+2025-04-08 16:36:07,733 [Worker-188: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-08 16:36:07,738 [Worker-188: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 6 resources from src\main\resources to target\classes
+2025-04-08 16:36:07,741 [Worker-188: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user\Ureca_Spring\SpringBootMVCPhoneAjaxMyBatis\src\test\resources
+2025-04-08 16:40:00,462 [Worker-193: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-08 16:40:00,466 [Worker-193: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 6 resources from src\main\resources to target\classes
+2025-04-08 16:40:00,469 [Worker-193: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user\Ureca_Spring\SpringBootMVCPhoneAjaxMyBatis\src\test\resources
+2025-04-08 16:45:37,346 [Worker-194: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-08 16:45:37,347 [Worker-194: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-08 16:45:37,349 [Worker-194: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user\Ureca_Spring\SpringBootMVCPhoneAjaxMyBatis\src\test\resources
+2025-04-08 17:08:43,657 [Worker-196: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-08 17:08:43,668 [Worker-196: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 6 resources from src\main\resources to target\classes
+2025-04-08 17:08:43,670 [Worker-196: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user\Ureca_Spring\SpringBootMVCPhoneAjaxMyBatis\src\test\resources
+2025-04-08 17:09:47,551 [Worker-198: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-08 17:09:47,552 [Worker-198: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-08 17:09:47,555 [Worker-198: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user\Ureca_Spring\SpringBootMVCPhoneAjaxMyBatis\src\test\resources
+2025-04-08 17:10:54,673 [Worker-201: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-08 17:10:54,674 [Worker-201: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-08 17:10:54,676 [Worker-201: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user\Ureca_Spring\SpringBootMVCPhoneAjaxMyBatis\src\test\resources
+2025-04-08 17:12:18,052 [Worker-196: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-08 17:12:18,053 [Worker-196: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-08 17:12:18,055 [Worker-196: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user\Ureca_Spring\SpringBootMVCPhoneAjaxMyBatis\src\test\resources
+2025-04-08 17:12:38,043 [Worker-201: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-08 17:12:38,044 [Worker-201: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-08 17:12:38,046 [Worker-201: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user\Ureca_Spring\SpringBootMVCPhoneAjaxMyBatis\src\test\resources
+2025-04-08 17:20:07,756 [Worker-208: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-08 17:20:07,758 [Worker-208: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-08 17:20:07,759 [Worker-208: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user\Ureca_Spring\SpringBootMVCPhoneAjaxMyBatis\src\test\resources
+2025-04-08 17:25:19,034 [Worker-212: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-08 17:25:19,041 [Worker-212: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 6 resources from src\main\resources to target\classes
+2025-04-08 17:25:19,044 [Worker-212: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user\Ureca_Spring\SpringBootMVCPhoneAjaxMyBatis\src\test\resources
+2025-04-08 17:26:44,064 [Worker-212: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-08 17:26:44,069 [Worker-212: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 6 resources from src\main\resources to target\classes
+2025-04-08 17:26:44,071 [Worker-212: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user\Ureca_Spring\SpringBootMVCPhoneAjaxMyBatis\src\test\resources
+2025-04-08 17:27:27,604 [Worker-212: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-08 17:27:27,610 [Worker-212: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 6 resources from src\main\resources to target\classes
+2025-04-08 17:27:27,613 [Worker-212: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user\Ureca_Spring\SpringBootMVCPhoneAjaxMyBatis\src\test\resources
+2025-04-08 17:28:33,281 [Worker-215: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-08 17:28:33,282 [Worker-215: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-08 17:28:33,286 [Worker-215: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user\Ureca_Spring\SpringBootMVCPhoneAjaxMyBatis\src\test\resources
+2025-04-08 17:30:31,274 [Worker-215: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-08 17:30:31,275 [Worker-215: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-08 17:30:31,277 [Worker-215: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user\Ureca_Spring\SpringBootMVCPhoneAjaxMyBatis\src\test\resources
+2025-04-08 17:32:54,137 [Worker-215: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-08 17:32:54,139 [Worker-215: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-08 17:32:54,142 [Worker-215: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user\Ureca_Spring\SpringBootMVCPhoneAjaxMyBatis\src\test\resources
+2025-04-08 17:33:43,271 [Worker-218: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-08 17:33:43,272 [Worker-218: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-08 17:33:43,275 [Worker-218: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user\Ureca_Spring\SpringBootMVCPhoneAjaxMyBatis\src\test\resources
+2025-04-08 17:34:01,979 [Worker-215: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-08 17:34:01,982 [Worker-215: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-08 17:34:01,985 [Worker-215: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user\Ureca_Spring\SpringBootMVCPhoneAjaxMyBatis\src\test\resources
+2025-04-08 17:36:20,431 [Worker-218: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-08 17:36:20,432 [Worker-218: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-08 17:36:20,436 [Worker-218: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user\Ureca_Spring\SpringBootMVCPhoneAjaxMyBatis\src\test\resources
+2025-04-08 17:38:06,770 [Worker-214: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-08 17:38:06,772 [Worker-214: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-08 17:38:06,773 [Worker-214: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user\Ureca_Spring\SpringBootMVCPhoneAjaxMyBatis\src\test\resources
+2025-04-08 17:39:19,280 [Worker-214: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-08 17:39:19,281 [Worker-214: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-08 17:39:19,283 [Worker-214: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user\Ureca_Spring\SpringBootMVCPhoneAjaxMyBatis\src\test\resources
+2025-04-08 17:44:07,552 [Worker-217: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-08 17:44:07,557 [Worker-217: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 6 resources from src\main\resources to target\classes
+2025-04-08 17:44:07,559 [Worker-217: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user\Ureca_Spring\SpringBootMVCPhoneAjaxMyBatis\src\test\resources
+2025-04-08 17:44:55,016 [Worker-223: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-08 17:44:55,017 [Worker-223: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-08 17:44:55,019 [Worker-223: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user\Ureca_Spring\SpringBootMVCPhoneAjaxMyBatis\src\test\resources
+2025-04-08 17:45:04,629 [Worker-224: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-08 17:45:04,630 [Worker-224: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-08 17:45:04,632 [Worker-224: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user\Ureca_Spring\SpringBootMVCPhoneAjaxMyBatis\src\test\resources
+2025-04-08 17:45:34,030 [Worker-217: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-08 17:45:34,032 [Worker-217: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-08 17:45:34,035 [Worker-217: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user\Ureca_Spring\SpringBootMVCPhoneAjaxMyBatis\src\test\resources
+2025-04-08 17:47:37,026 [Worker-228: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-08 17:47:37,028 [Worker-228: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-08 17:47:37,029 [Worker-228: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user\Ureca_Spring\SpringBootMVCPhoneAjaxMyBatis\src\test\resources
+2025-04-08 17:52:34,708 [Worker-235: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-08 17:52:34,710 [Worker-235: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-08 17:52:34,711 [Worker-235: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user\Ureca_Spring\SpringBootMVCPhoneAjaxMyBatis\src\test\resources
+2025-04-08 17:54:05,332 [Worker-236: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-08 17:54:05,339 [Worker-236: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 6 resources from src\main\resources to target\classes
+2025-04-08 17:54:05,342 [Worker-236: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user\Ureca_Spring\SpringBootMVCPhoneAjaxMyBatis\src\test\resources
+2025-04-08 17:54:20,810 [Worker-224: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-08 17:54:20,812 [Worker-224: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-08 17:54:20,813 [Worker-224: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user\Ureca_Spring\SpringBootMVCPhoneAjaxMyBatis\src\test\resources
+2025-04-08 17:54:34,781 [Worker-236: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-08 17:54:34,782 [Worker-236: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-08 17:54:34,784 [Worker-236: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user\Ureca_Spring\SpringBootMVCPhoneAjaxMyBatis\src\test\resources
+2025-04-08 17:54:42,223 [Worker-236: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-08 17:54:42,224 [Worker-236: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-08 17:54:42,225 [Worker-236: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user\Ureca_Spring\SpringBootMVCPhoneAjaxMyBatis\src\test\resources
+2025-04-08 17:55:35,309 [Worker-234: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-08 17:55:35,310 [Worker-234: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-08 17:55:35,312 [Worker-234: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user\Ureca_Spring\SpringBootMVCPhoneAjaxMyBatis\src\test\resources
+2025-04-08 18:04:30,873 [Worker-235: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-08 18:04:30,874 [Worker-235: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-08 18:04:30,876 [Worker-235: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user\Ureca_Spring\SpringBootMVCPhoneAjaxMyBatis\src\test\resources
+2025-04-08 18:12:25,037 [Worker-249: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-08 18:12:25,047 [Worker-249: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 6 resources from src\main\resources to target\classes
+2025-04-08 18:12:25,049 [Worker-249: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user\Ureca_Spring\SpringBootMVCPhoneAjaxMyBatis\src\test\resources
+2025-04-08 18:13:16,109 [Worker-252: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-08 18:13:16,111 [Worker-252: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-08 18:13:16,112 [Worker-252: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user\Ureca_Spring\SpringBootMVCPhoneAjaxMyBatis\src\test\resources
