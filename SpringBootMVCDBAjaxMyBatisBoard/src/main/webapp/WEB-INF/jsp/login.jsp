@@ -19,7 +19,7 @@
 	<div class="container">
 
 		<div class="mb-3 mt-3 d-flex justify-content-center ">
-			<h1 class="display-4">야구장 응원석 성공</h1>
+			<h1 class="display-4">HSH</h1>
 		</div>
 
 		<div class="mb-3">
