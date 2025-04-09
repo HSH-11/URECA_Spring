@@ -44,4 +44,14 @@
         FROM Products
         WHERE product_id = #{productId}
     </select>
+    
+    <!-- 수정 -->
+    <update id="updateProduct" parameterType="com.mycom.myapp.product.dto.ProductDto">
+        UPDATE products
+        SET
+            name = #{name},
+            price = #{price},
+            stock = #{stock}
+        WHERE product_id = #{productId}
+    </update>
 </mapper>

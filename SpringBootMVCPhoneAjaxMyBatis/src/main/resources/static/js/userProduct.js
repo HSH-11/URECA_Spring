@@ -7,7 +7,7 @@ let CURRENT_PAGE = 1;
 window.onload = function() {
 	// 상품 목록
 	listProduct();
-	
+
 	// 검색어 목록
 	document.querySelector("#btnSearchWord").onclick = function() {
 		SEARCH_WORD = document.querySelector("#inputSearchWord").value;
@@ -15,6 +15,8 @@ window.onload = function() {
 		CURRENT_PAGE = 1;
 		listProduct();
 	}
+
+
 
 	// 주문하기
 	document.querySelector("#orderForm").onsubmit = async function(e) {
@@ -40,6 +42,9 @@ window.onload = function() {
 			alertify.error("주문 실패. 다시 시도해주세요.");
 		}
 	};
+
+
+
 
 
 
@@ -72,9 +77,6 @@ async function listProduct() {
 function makeProductListHtml(list) {
 	let html = "";
 
-	const loginType = sessionStorage.getItem("loginType");
-
-
 	list.forEach(product => {
 		html += `
       <tr>
@@ -83,28 +85,10 @@ function makeProductListHtml(list) {
         <td>${product.price.toLocaleString()}원</td>
         <td>${product.stock}</td>
         <td>
-    `;
-
-		if (loginType === "admin") {
-			// 관리자 모드: 수정/삭제 버튼
-			html += `
-        <button class="btn btn-sm btn-outline-warning me-1" title="수정" onclick="editProduct(${product.productId})">
-          <i class="bi bi-pencil"></i>
-        </button>
-        <button class="btn btn-sm btn-outline-danger" title="삭제" onclick="deleteProduct(${product.productId})">
-          <i class="bi bi-trash"></i>
-        </button>
-      `;
-		} else {
-			// 사용자 모드: 구매 버튼만
-			html += `
         <button class="btn btn-sm btn-outline-success" title="구매" onclick="buyProduct(${product.productId})">
           <i class="bi bi-cart"></i>
         </button>
-      `;
-		}
-
-		html += `</td></tr>`;
+		</td></tr>`;
 	});
 
 	document.querySelector("#productTBody").innerHTML = html;
@@ -160,13 +144,3 @@ function setOrderForm(product) {
 	new bootstrap.Modal(document.getElementById('orderModal')).show();
 }
 
-
-function editProduct(productId) {
-	alert("수정 기능은 아직 미구현입니다.\n상품 ID: " + productId);
-}
-
-function deleteProduct(productId) {
-	if (confirm("이 상품을 삭제하시겠습니까?")) {
-		alert("삭제 기능은 아직 미구현입니다.\n상품 ID: " + productId);
-	}
-}

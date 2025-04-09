@@ -59,7 +59,8 @@
       const userid = document.getElementById("userid").value;
       const password = document.getElementById("password").value;
       const loginType = document.getElementById("loginType").value;
-
+      alert(loginType);
+      
       fetch("auth/login", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
@@ -68,6 +69,7 @@
       .then(res => res.json())
       .then(result => {
     	  if (result.result === "success") {
+    		  sessionStorage.setItem("loginType", result.loginType);
     	      window.location.href = loginType === "admin" ? "/pages/admin" : "/pages/user";
     	    } else {
     	      alert("로그인 실패: 아이디 또는 비밀번호를 확인해주세요.");

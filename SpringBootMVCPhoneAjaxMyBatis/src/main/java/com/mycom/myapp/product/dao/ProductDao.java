@@ -19,4 +19,7 @@ public interface ProductDao {
 	 
 	 // 상세
 	 ProductDto getProductById(int productId);
+	 
+	 // 수정
+	 void updateProduct(ProductDto productDto);
 }

@@ -8,4 +8,5 @@ public interface ProductService {
 	ProductResultDto getAllProducts(ProductParamDto paramDto);
     ProductResultDto searchProducts(ProductParamDto paramDto);
     ProductDto getProductById(int productId);
+    void updateProduct(ProductDto productDto);
 }
