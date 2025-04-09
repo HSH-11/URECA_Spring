@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper
+  PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+  "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+  
+<mapper namespace="com.mycom.myapp.order.dao.OrderDao">
+
+    <insert id="insertOrder" parameterType="com.mycom.myapp.order.dto.OrderDto">
+        INSERT INTO Orders (userid, product_id, quantity, total_amount, discount_amount, shipping_address)
+        VALUES (#{userid}, #{productId}, #{quantity}, #{totalAmount}, #{discountAmount}, #{shippingAddress});
+    </insert>
+
+    <select id="getOrdersByCustomerId" resultType="com.mycom.myapp.order.dto.OrderDto">
+        SELECT * FROM Orders WHERE userid = #{userid}
+    </select>
+
+</mapper>
+  

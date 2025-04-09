@@ -53,6 +53,11 @@ public class ProductServiceImpl implements ProductService{
 
         return productResultDto;
 	}
+
+	@Override
+	public ProductDto getProductById(int productId) {
+		return productDao.getProductById(productId);
+	}
 	
 	
 	

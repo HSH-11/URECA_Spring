@@ -16,4 +16,7 @@ public interface ProductDao {
 	 // 검색
 	 List<ProductDto> searchProducts(ProductParamDto paramDto);
 	 int searchProductsCount(ProductParamDto paramDto);
+	 
+	 // 상세
+	 ProductDto getProductById(int productId);
 }

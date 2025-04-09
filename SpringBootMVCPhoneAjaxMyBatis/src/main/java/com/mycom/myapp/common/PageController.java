@@ -11,10 +11,10 @@ public class PageController {
 	
 	@GetMapping("/pages/admin")
     public String adminPage() {
-        return "adminProductList"; 
+        return "adminPage"; 
     }
 
-    @GetMapping("/page/user")
+    @GetMapping("/pages/user")
     public String userPage() {
         return "userPage";
     }

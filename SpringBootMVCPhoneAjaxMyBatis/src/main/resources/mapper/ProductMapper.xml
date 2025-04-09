@@ -37,4 +37,11 @@
         FROM Products
         WHERE name LIKE CONCAT('%', #{searchWord}, '%')
     </select>
+    
+    <!--  상세 -->
+    <select id="getProductById" parameterType="int" resultType="com.mycom.myapp.product.dto.ProductDto">
+        SELECT product_id, name, price, stock
+        FROM Products
+        WHERE product_id = #{productId}
+    </select>
 </mapper>
