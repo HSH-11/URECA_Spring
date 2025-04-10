@@ -37,7 +37,7 @@ public class LoginController {
 		if ( optional.isPresent()) { // 로그인 성공
 			UserDto dto = optional.get();
 			session.setAttribute("userDto", dto); // session timeout 30분
-			System.out.println("로그인 유형: "+dto.getLoginType());
+			System.out.println("로그인 유형:"+dto.getLoginType());
 			map.put("result", "success");
 			map.put("loginType", dto.getLoginType());
 			return map;
@@ -51,7 +51,7 @@ public class LoginController {
 	@GetMapping("/logout")
 	public String logout(HttpSession session) {
 	    session.invalidate();
-	    return "redirect:/login.jsp";
+	    return "redirect:/index.html";
 	}
 
 	

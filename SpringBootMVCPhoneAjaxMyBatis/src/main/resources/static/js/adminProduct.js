@@ -80,7 +80,6 @@ async function listProduct() {
 function makeProductListHtml(list) {
 	let html = "";
 
-	const loginType = sessionStorage.getItem("loginType");
 
 	list.forEach(product => {
 		html += `
