@@ -75,6 +75,10 @@ UserDto userDto = (UserDto) session.getAttribute("userDto");
 			<tbody id="boardTbody">
 			</tbody>
 		</table>
+		<div id = "paginationWrapper">
+			<!-- 페이지네이션 처리 -->
+		
+		</div>
 		<button type="button" id="btnInsertPage"
 			class="btn btn-sm btn-primary">글쓰기</button>
 	</div>
@@ -194,6 +198,10 @@ UserDto userDto = (UserDto) session.getAttribute("userDto");
 	let OFFSET = 0;
 	let TOTAL_LIST_COUNT = 0;
 	let SEARCH_WORD = '';
+	
+	let PAGE_LINK_COUNT = 10;
+	let CURRENT_PAGE_INDEX = 1;
+	
 	window.onload = function() {
 		// 글 목록
 		listBoard();
@@ -271,11 +279,14 @@ UserDto userDto = (UserDto) session.getAttribute("userDto");
 		
 		if (data.result == "success"){
 			makeListHtml(data.list)
-			TOTAL_LIST_COUNT = data.count;
+			TOTAL_LIST_COUNT = data.count; //pagination을 위한 총 건수만 백엔드가 data로 전달
+			addPagination();		
 		}else if (data.result == "fail"){
 			alert("글 조회 과정에서 오류 발생")
 		}else if (data.result == "login"){
 			window.location.href = "/pages/login";
+		}else if (data.result == "exception"){
+			alert("글 조회 과정에서 예외 발생")
 		}
 	}
 	
@@ -310,6 +321,15 @@ UserDto userDto = (UserDto) session.getAttribute("userDto");
         } );
     }
 	
+	function addPagination(){
+		makePaginationHtml(LIST_ROW_COUNT, PAGE_LINK_COUNT, CURRENT_PAGE_INDEX, TOTAL_LIST_COUNT, "paginationWrapper");
+	}
+	
+	function movePage(pageIndex){
+		OFFSET = (pageIndex - 1) * LIST_ROW_COUNT;
+		CURRENT_PAGE_INDEX = pageIndex;
+		listBoard();
+	}
 	
 	async function detailBoard(boardId){
 		

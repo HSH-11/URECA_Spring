@@ -37,6 +37,12 @@ public class BoardController {
 		}else {
 			boardResultDto = boardService.listBoardSearchWord(boardParamDto);
 		}
+		
+		// 예외 처리 테스트
+//		String s = null;
+//		s.length();
+//		
+		
 		return boardResultDto;
 	}
 	
