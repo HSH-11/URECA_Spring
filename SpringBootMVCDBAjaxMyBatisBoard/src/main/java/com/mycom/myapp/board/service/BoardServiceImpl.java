@@ -162,14 +162,16 @@ public class BoardServiceImpl implements BoardService {
 	}
 
 	@Override
+	@Transactional
 	public BoardResultDto deleteBoard(int boardId) {
 		
 		BoardResultDto boardResultDto = new BoardResultDto();
 
 		try {
-			int ret = boardDao.deleteBoard(boardId);
-
-			if (ret == 1) {
+			int ret1 = boardDao.deleteBoardUserRead(boardId); // FK 이슈 : child 먼저 삭제
+			int ret2 = boardDao.deleteBoard(boardId);
+			
+			if (ret1 == 1 && ret2 == 1) {
 				boardResultDto.setResult("success");
 			} else {
 				boardResultDto.setResult("fail");
@@ -178,6 +180,7 @@ public class BoardServiceImpl implements BoardService {
 		} catch (Exception e) {
 			e.printStackTrace();
 			boardResultDto.setResult("fail");
+			TransactionAspectSupport.currentTransactionStatus().setRollbackOnly();
 		}
 		return boardResultDto;
 	}
